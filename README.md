@@ -1,4 +1,5 @@
 # Flower Classification with Swin Transformer on TPU
+![image](https://github.com/user-attachments/assets/c3162c03-fb91-4e17-b068-3066cd994f02)
 
 This project implements a flower classification model using a Swin Transformer architecture, fine-tuned on a TPU (Tensor Processing Unit). The dataset includes various flower species, and the model is trained to classify images into these species categories. The project also integrates with Weights & Biases (W&B) for experiment tracking.
 
